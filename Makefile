@@ -1,7 +1,7 @@
 .SILENT:
 
 NAME = ransomConsole
-VERSION = 0.0.2-Pro
+VERSION = 0.0.3-Pro
 ARCHIVE = $(NAME)-$(VERSION).tar.gz
 
 .PHONY: install compress clean cleanfiles
