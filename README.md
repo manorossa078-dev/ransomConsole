@@ -21,3 +21,5 @@ sudo ./console
 ...
 ```
 ![](assets/usage.png)
+
+WARNING: the old "encrypt all" function has now changed to "encrypt.all" and same goes for decryption (decrypt.all).
